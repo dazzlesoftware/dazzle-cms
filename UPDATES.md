@@ -1,6 +1,7 @@
-#Update Preferences
+# Update Preferences
 This feature allows you to define how your administration handles updates and upgrades.
-You can specify your preferences in the administration control panel. For more information, read our documentation on dazzle cms administration and the Release Process.
+You can specify your preferences in the administration control panel.
+For more information, read our documentation on dazzle cms administration and the Release Process.
 
 | Tier          | Currently     | Description                                                              |
 | :-----------: |:-------------:| :-----------------------------------------------------------------------:|
