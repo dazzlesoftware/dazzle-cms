@@ -1,0 +1,3 @@
+[submodule ".travis/phpcs"]
+	path = .travis/phpcs
+	url = git://github.com/dazzle-documentation/coding-standards/coding-standards.git
